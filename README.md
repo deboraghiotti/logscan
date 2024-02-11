@@ -1,7 +1,7 @@
 # Logscan
-Uma ferramenta de estruturação automática de logs baseada no algortimo DBSCAN.
+An automatic log parser tool based on the DBSCAN algorithm.
 
-## Modo de Uso
+## Installation
 
 ```
 pip install -r requirements.txt
@@ -10,5 +10,5 @@ pip install -r requirements.txt
 py -m logscan
 ```
 
-## Dados
-O dataset Andriod_2k.log_structured.csv usado como teste foi gerado pela equipe do [logparser](https://github.com/logpai/logparser).
+## Data
+The dataset Andriod_2k.log_structured.csv used as a test was provided by [logparser](https://github.com/logpai/logparser).
